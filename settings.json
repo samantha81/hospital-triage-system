@@ -1,0 +1,7 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python.defaultInterpreterPath": "C:\\Users\\shuwe\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\shuwe\\AppData\\Local\\Programs\\Python\\Python39;C:\\Users\\shuwe\\AppData\\Local\\Programs\\Python\\Python39\\Scripts;${env:PATH}"
+    }
+}
